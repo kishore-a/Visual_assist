@@ -10,7 +10,8 @@ pytesseract
 librosa>=0.5.1
 torch>=0.4
 tensorboardX>=1.2
-
+num2words
+SpeechRecognition
 numpy>=1.13.1
 scipy
 pandas
